@@ -1,9 +1,8 @@
-Inventory Management System
-
+**Inventory Management System**
 Welcome to the Inventory Management System! This application is designed to help businesses manage their inventory efficiently. The system provides a user-friendly interface to track products, manage stock levels, and generate reports. The backend is built using Java Spring Boot, and the frontend is developed with Angular.
 
-Features
-Backend (Java Spring Boot)
+**Features
+Backend (Java Spring Boot)**
 RESTful API: Provides endpoints for CRUD operations on inventory items, categories, and suppliers.
 
 Database Integration: Uses MySQL/PostgreSQL for data storage.
@@ -18,7 +17,7 @@ Exception Handling: Custom exception handling for better error management.
 
 Logging: Integrated logging for debugging and monitoring.
 
-Frontend (Angular)
+**Frontend (Angular)**
 Responsive UI: Built with Angular Material for a clean and modern design.
 
 Component-Based Architecture: Modular and reusable components for better maintainability.
@@ -43,13 +42,14 @@ Maven (for dependency management)
 
 MySQL/PostgreSQL (or any preferred database)
 
-Spring Boot 3.x
+
+**Spring Boot 3.x**
 
 IDE (e.g., IntelliJ IDEA, Eclipse)
 
 Frontend
 Node.js (v16 or higher)
 
-Angular CLI (v15 or higher)
+**Angular CLI (v15 or higher)**
 
 IDE (e.g., Visual Studio Code)
