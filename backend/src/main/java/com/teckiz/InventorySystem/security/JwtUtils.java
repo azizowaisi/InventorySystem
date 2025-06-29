@@ -31,6 +31,9 @@ public class JwtUtils {
     }
 
     public String generateToken(String email){
+        if (email == null || email.isBlank()) {
+            throw new IllegalArgumentException("Email must not be null or blank");
+        }
         return Jwts.builder()
                 .subject(email)
                 .issuedAt(new Date(System.currentTimeMillis()))

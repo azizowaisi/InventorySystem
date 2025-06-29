@@ -42,6 +42,7 @@ Maven (for dependency management)
 
 MySQL/PostgreSQL (or any preferred database)
 
+
 **Spring Boot 3.x**
 
 IDE (e.g., IntelliJ IDEA, Eclipse)
